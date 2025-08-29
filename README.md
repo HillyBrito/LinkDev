@@ -40,10 +40,12 @@ Acesse o resultado da Landing Page construída a partir desse desafio clicando n
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/HillyBrito)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hillybrito)
 
+
 ## 🛠 Habilidades
-Javascript, HTML5, CSS3...
+HTML5 e CSS3.
 
 ## Contatos
 Email: hillybrito@gmail.com
+
 Instagram: @hillybrito
 
